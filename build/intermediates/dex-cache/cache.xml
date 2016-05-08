@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\code\AndroidFTP-master-d\app\src\main\java\com\sam\remote\org.apache.commons.io.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\code\AndroidFTP-master-d\app\build\intermediates\pre-dexed\debug\org.apache.commons.io-87217db604411e217ff13de960dc57227831ffdb.jar" />
+    </item>
+    <item
+        jar="D:\code\AndroidFTP-master-d\app\src\main\java\com\sam\remote\org.apache.commons.net.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e984db9554728564d58e90da5d90eff8ae8cf2d">
+        <dex dex="D:\code\AndroidFTP-master-d\app\build\intermediates\pre-dexed\debug\org.apache.commons.net-336d7a726e9cc70e6eed7a4f71a7982015040e80.jar" />
+    </item>
+    <item
+        jar="D:\code\AndroidFTP-master-d\app\src\main\java\com\sam\remote\org.apache.log4j.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f90475694c41965c9a0c8bac53ea5c690dea446">
+        <dex dex="D:\code\AndroidFTP-master-d\app\build\intermediates\pre-dexed\debug\org.apache.log4j-67b182950cfe303a050d29d55ad676cf699cc561.jar" />
+    </item>
+
+</items>
